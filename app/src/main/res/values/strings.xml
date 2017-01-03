@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Neo Font Changer</string>
+    <string name="action_about">About</string>
+    <string name="action_help">Help</string>
+</resources>
